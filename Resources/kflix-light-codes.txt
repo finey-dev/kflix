@@ -1,0 +1,11 @@
+Your selected colors:
+
+    Text: #111815 (rgb(17, 24, 21) - hsl(154, 17%, 8%))
+    Background: #e4ece9 (rgb(228, 236, 233) - hsl(157, 17%, 91%))
+    Primary: #cbc1d2 (rgb(203, 193, 210) - hsl(275, 16%, 79%))
+    Secondary: #cddbd5 (rgb(205, 219, 213) - hsl(154, 16%, 83%))
+    Accent: #7f705c (rgb(127, 112, 92) - hsl(34, 16%, 43%))
+
+Realtime Colors link for selected colors: https://www.realtimecolors.com/?colors=111815-e4ece9-cbc1d2-cddbd5-7f705c&fonts=Poppins-Poppins
+
+Thanks for using RealtimeColors.com!

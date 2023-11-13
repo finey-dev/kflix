@@ -1,0 +1,11 @@
+Your selected colors:
+
+    Text: #e7eeeb (rgb(231, 238, 235) - hsl(154, 17%, 92%))
+    Background: #131b18 (rgb(19, 27, 24) - hsl(158, 17%, 9%))
+    Primary: #372d3e (rgb(55, 45, 62) - hsl(275, 16%, 21%))
+    Secondary: #24322c (rgb(36, 50, 44) - hsl(154, 16%, 17%))
+    Accent: #a39480 (rgb(163, 148, 128) - hsl(34, 16%, 57%))
+
+Realtime Colors link for selected colors: https://www.realtimecolors.com/?colors=e7eeeb-131b18-372d3e-24322c-a39480&fonts=Poppins-Poppins
+
+Thanks for using RealtimeColors.com!
